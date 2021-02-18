@@ -5,4 +5,4 @@ Lab for BufferOverflow.
 exestack, address space randomization, 
 
 #Goal
-Getting the root mode
+Getting the root mode.
