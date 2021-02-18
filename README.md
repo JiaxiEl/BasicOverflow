@@ -1,8 +1,8 @@
 # BasicOverflow
 Lab for BufferOverflow.
 
-#Enviornment
+# Enviornment
 exestack, address space randomization, 
 
-#Goal
+# Goal
 Getting the root mode.
