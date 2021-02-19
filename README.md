@@ -1,5 +1,5 @@
 # BasicOverflow
-Lab for BufferOverflow.
+The lab is to simulate the buffer-overflow attack
 
 # Enviornment
 exestack, address space randomization, 
