@@ -20,7 +20,7 @@ char shellcode[]=
 
 void main(int argc, char **argv)
 {
-    char buffer[460];
+    char buffer[450];
     FILE *badfile;
 
     /* Initialize buffer with 0x90 (NOP instruction) */
